@@ -28,8 +28,8 @@ The **Student Management System** is a web-based application designed to manage 
 
 ### Steps to Setup
 1. Clone the repository:
-    git clone```sh
-   https://github.com/subash-j-s/StudentManagementSystem.git
+    ```sh
+   git clone https://github.com/subash-j-s/StudentManagementSystem.git
    ```
 2. Navigate to the project directory:
    ```sh
