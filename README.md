@@ -63,6 +63,14 @@ The **Student Management System** is a web-based application designed to manage 
 - Add real-time notifications.
 
 ## Contributing
+Contributions to this project are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/my-feature).
+3. Make your changes and commit them (git commit -am 'Add new feature').
+4. Push to the branch (git push origin feature/my-feature).
+5. Create a new pull request.
+
 Feel free to fork this repository and contribute by submitting a pull request.
 
 ## License
